@@ -6,7 +6,7 @@ A Real Estate NFT DApp to buy, sell, and rent New York real estate.
 
 ------
 TODO
-- Deploy to a testnet (Seplolia)   
+- Deploy to a testnet (Sepolia)   
 - Deploy the site
 
 ------
