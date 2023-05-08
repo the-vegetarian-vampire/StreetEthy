@@ -3,9 +3,10 @@
 This is a cloned [repository](https://github.com/dappuniversity/millow) from [DAPP University](https://github.com/dappuniversity)   
 
 A Real Estate NFT DApp to buy, sell, and rent New York real estate.
+
 ------
 TODO
-- Connect to a testnet
+- Deploy to a testnet (Seplolia)   
 - Deploy the site
 
 ------
