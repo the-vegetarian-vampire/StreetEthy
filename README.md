@@ -2,7 +2,8 @@
 
 This is a cloned [repository](https://github.com/dappuniversity/millow) from [DAPP University](https://github.com/dappuniversity)   
 
-<img width="1543" alt="Screenshot 2023-05-13 at 1 56 23 PM" src="https://github.com/the-vegetarian-vampire/StreetEthy/assets/105305546/3909e51e-def5-4087-a83b-8b11a6e6d4b8">
+<img width="1535" alt="Screenshot 2023-05-13 at 2 15 31 PM" src="https://github.com/the-vegetarian-vampire/StreetEthy/assets/105305546/a08d29cb-550d-4922-8841-7e3067bfe7c6">
+
 
 A Real Estate NFT DApp to buy, sell, and rent New York real estate.
 
